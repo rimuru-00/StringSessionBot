@@ -14,7 +14,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "professional-1"
+      "size": "standard-2x"
     }
   },
   "addons": [
